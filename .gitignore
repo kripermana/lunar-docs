@@ -1,1 +1,7 @@
 node_modules
+.astro
+
+src/content/posts/draft.md
+src/content/posts/markdown-extendend.md
+src/content/posts/markdown.md
+src/content/posts/video.md
